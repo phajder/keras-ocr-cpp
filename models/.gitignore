@@ -1,0 +1,4 @@
+# Ignore every model
+*
+# But include directory
+!.gitignore
